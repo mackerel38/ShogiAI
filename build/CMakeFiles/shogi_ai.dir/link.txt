@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/shogi_ai.dir/src/main.cpp.o CMakeFiles/shogi_ai.dir/src/board/board.cpp.o CMakeFiles/shogi_ai.dir/src/engine/usi_engine.cpp.o CMakeFiles/shogi_ai.dir/src/move/move.cpp.o CMakeFiles/shogi_ai.dir/src/nn/board_encoder.cpp.o -o shogi_ai 

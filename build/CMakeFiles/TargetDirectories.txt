@@ -1,0 +1,4 @@
+/home/mackerel38/ShogiAI/build/CMakeFiles/shogi_ai.dir
+/home/mackerel38/ShogiAI/build/CMakeFiles/test.dir
+/home/mackerel38/ShogiAI/build/CMakeFiles/edit_cache.dir
+/home/mackerel38/ShogiAI/build/CMakeFiles/rebuild_cache.dir
